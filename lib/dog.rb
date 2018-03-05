@@ -8,12 +8,8 @@ class Dog
     @name = name
   end
   
-  # def name
-  #   #{name}.strip
-  # end  
-  
-  
-  
+
+
   def breed
     @breed
   end  
