@@ -12,4 +12,19 @@ class Dog
     #{name}.strip
   end  
   
+  
+  
+  def initialize(breed)
+    @breed = breed
+  end
+  
+  def breed=(breed)
+    breed#= breed.split
+  end
+  
+  def breed
+    #{breed}.strip
+  end  
+  
+  
 end
