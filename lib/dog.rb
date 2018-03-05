@@ -14,17 +14,17 @@ class Dog
   
   
   
-  def initialize(breed)
-    @breed = breed
-  end
+  # def initialize(breed)
+  #   @breed = breed
+  # end
   
-  def breed=(breed)
-    breed#= breed.split
-  end
+  # def breed=(breed)
+  #   breed#= breed.split
+  # end
   
-  def breed
-    #{breed}.strip
-  end  
+  # def breed
+  #   #{breed}.strip
+  # end  
   
   
 end
