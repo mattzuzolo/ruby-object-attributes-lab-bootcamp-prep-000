@@ -14,4 +14,18 @@ class Person
   
   
   
+  
+  def initialize(job)
+    @job = job
+  end
+  
+  def job=(job)
+    job#= job.split
+  end
+  
+  def job
+    #{job}.strip
+  end  
+  
+  
 end
