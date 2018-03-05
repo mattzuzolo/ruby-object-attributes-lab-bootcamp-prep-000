@@ -5,7 +5,7 @@ class Dog
   end
   
   def name=(name)
-    name = name.split
+    name = name
   end
   
   def name
