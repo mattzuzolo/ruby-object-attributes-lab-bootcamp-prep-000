@@ -8,9 +8,9 @@ class Dog
   #   @name = name
   # end
   
-  def name
-    #{name}.strip
-  end  
+  # def name
+  #   #{name}.strip
+  # end  
   
   
   
